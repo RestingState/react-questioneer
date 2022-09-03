@@ -1,12 +1,8 @@
 import './App.css';
-import Navbar from './common/views/Navbar/Navbar';
+import Routes from './setup/routes-manager/routes';
 
 function App() {
-  return (
-    <div>
-      <Navbar />
-    </div>
-  );
+  return <Routes />;
 }
 
 export default App;
