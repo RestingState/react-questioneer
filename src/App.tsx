@@ -1,5 +1,5 @@
+import Routes from 'setup/routes-manager/routes';
 import './App.css';
-import Routes from './setup/routes-manager/routes';
 
 function App() {
   return <Routes />;

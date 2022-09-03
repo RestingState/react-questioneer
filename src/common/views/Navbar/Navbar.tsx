@@ -1,5 +1,5 @@
+import { ReactComponent as Bars } from 'assets/svg/navbar/bars-solid.svg';
 import { Link } from 'react-router-dom';
-import { ReactComponent as Bars } from '../../../assets/svg/navbar/bars-solid.svg';
 import './Navbar.scss';
 
 const Navbar = () => {
